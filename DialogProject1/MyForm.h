@@ -20,6 +20,7 @@ namespace DialogProject1 {
 	using namespace System::Windows::Forms;
 	using namespace System::Data;
 	using namespace System::Drawing;
+
 ////////////////////////////////////////////////////    Begin code copied from MyForm11.h
 	public ref class MyForm11 : public System::Windows::Forms::Form
 	{
@@ -83,7 +84,7 @@ namespace DialogProject1 {
 	};
 
 
-////////////////////////////////////////////////// End of code copied from MyForm11.h
+////////////////////////////////////////////////// End of code copied from MyForm11.h 
 	/// <summary>
 	/// Summary for MyForm
 	/// </summary>
@@ -150,7 +151,6 @@ namespace DialogProject1 {
 			this->Name = L"MyForm";
 			this->Text = L"MyForm";
 			this->ResumeLayout(false);
-
 		}
 #pragma endregion
 
