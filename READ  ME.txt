@@ -9,3 +9,11 @@ Some of the files in the git repository are not now used in this project.
 
 Clerly, something  is wrong.  If anyone can tell me why the include did not work I will appreciate it. I am just learning to use Visual Studio.
 Please contact me at ed.roberts@verizon.net.
+
+
+
+Here is what this project does:
+
+It opens with a Windows form havnig a single button, "Open Dialog".
+When the Open Dialog button is clicked upon, a dilog is opened that has a calendar control.
+That is all it does. It is an experiment to utilize two Windows form classes in a Visual Studio 2019 C++ CLR GUI application.
