@@ -2,7 +2,7 @@
 
 This project compiles and runs properly in Visual Studio 2019. It is an experimental project to utilize a second windows form as a dialog.
 
-It is, however, not correct.  When '#include "MyForm11.h"  ' is put in this file, the code from MyForm11.h is apparently NOT included.
+It is, however, not correct.  When '#include "MyForm11.h"  ' is put in MyForm.h, the code from MyForm11.h is apparently NOT included.
 To make this project compile and execute, I manually coppied the code from MyForm11.h and inserted it into MyForm.h
 
 Some of the files in the git repository are not now used in this project.
